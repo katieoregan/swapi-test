@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+  color: white;
+  display: inline-flex;
+}
+
+.form-group {
+  padding-right: 50px;
+  display: inline-flex;
+}
